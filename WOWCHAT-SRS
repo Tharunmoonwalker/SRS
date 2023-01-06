@@ -1,0 +1,77 @@
+			      WoW chat
+-	“Let’s connect”		
+
+SOFTWARE REQUIREMENT SPECIFICATIONS:
+
+OBJECTIVE:
+•	To create a chat application.
+
+INTRODUCTION:
+•	WoWchat is a web-based chat application for connecting with you Friends & Peers.
+PURPOSE:
+•	To create a more versatile web-based chat app that is way more convenient to use.
+•	For a real-time conversation.
+
+
+USERS:
+•	Admin
+•	Customers
+
+
+INTENDED AUDIENCES and READING SUGGESTIONS:
+•	It is suitable for users above the age of 12
+
+OVERALL DESCRIPTION:
+PRODUCT PERSPECTIVE:
+•	It’s an apparent way for communication.
+•	Widely used for productive purpose.
+
+PRODUCT FEATURES:
+•	The messages are End-to-end encrypted and even the WoWchat cannot be able to read the messages.
+•	Supports Voice Calls. 
+•	Efficient file transferring.
+•	New set of emojis for a fun-filled chat space.
+
+OPERATING ENVIRONMENT:
+•	Supports both Mac OS and Windows (PC)
+•	Supports both IOs and Android.
+
+
+ 
+SYSTEM FEATURES
+FUNCTIONAL REQUIREMENTS:
+•	To build an application for the customers to connect with their friends & families.
+•	The application should possess Account, Login, Signup.
+•	The profile is Customisable for every user.
+•	The application must possess a database for maintaining account and signup information of the users.
+ 
+EXTERNAL INTERFACE REQUIREMENTS
+USER INTERFACE:
+•	Compatible with almost all system UI and provides a better user experience.
+
+
+NONFUNCTIONAL REQUIREMENTS
+PERFORMANCE:
+Peak performance (during weekdays (7pm-8pm),weekend):
+•	User application < 3s
+•	Message receptivity < 1 s.
+
+Non-peak load performance:
+•	User application < 1s
+•	Message receptivity <0.1 s
+
+SAFETY 
+•	Kids mode
+•	Blocks sensitive data.
+
+SECURITY:
+•	End-to-end encrypted messages.
+•	Firewall protected
+•	Two step verification.
+
+TECHNOLOGY STACK:
+•	Front end: HTML/CSS
+•	Back end: Javascript
+•	Database: Oracle / MySQL
+
+
